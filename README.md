@@ -1,5 +1,6 @@
-# Urawa Hanako Cursor Theme
+![preview](https://github.com/user-attachments/assets/55a7c4fa-d7ac-44de-9a6c-51003f4c1db8)
 
+# Urawa Hanako Cursor Theme
 A cursor theme with 3D renders of Urawa Hanako from Blue Archive
 
 ## Install Guide
