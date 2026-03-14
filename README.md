@@ -18,3 +18,11 @@ _**coming soon**_ (i would consider porting this in the future)
 
 - [KDE's Custom Cursor Guide](https://develop.kde.org/docs/features/cursor/)
 - Alexisvids : Telling me about how to properly extract animation clips from the game files
+
+## License
+
+At some point, i realized having MIT License applied to the **entire** repo (including the renders) might not be suitable...
+
+Just don't claim the theme as your own works and you should be fine...
+
+But in case i add xcursor generator script to this repo in the future, that script will be licensed with [MIT License](https://opensource.org/license/MIT)...
