@@ -1,0 +1,11 @@
+resize_algorithm = none
+hotspot_x = 0.16
+hotspot_y = 0.09
+
+define_size = 128, regular_000.png, 50
+
+define_override = arrow
+define_override = move
+define_override = left_ptr
+define_override = dnd-move
+define_override = top_left_arrow
